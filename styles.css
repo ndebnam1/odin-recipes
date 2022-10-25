@@ -1,0 +1,39 @@
+a {
+	font: "times new roman", serif;
+	color: darkblue;
+}
+/*p {
+	font: "times new roman", serif;
+	font-size: 28px;
+} */
+
+#dis {
+	background-color: yellow;
+}
+
+.box,
+.ingredientB,
+.stepsB,
+.ingredientSubB {
+	border: 10px;
+	padding: 10px;
+	border-style: solid;
+}
+
+.ingredientB {
+	padding: 20px;
+	width: auto;
+	margin: 0px;
+}
+
+.ingredientSubB {
+	border-width: 5px;
+	width: auto;
+	margin-bottom: 10px;
+}
+
+div {
+	padding: 20px;
+	width: 150px;
+	border-style: sold;
+}
